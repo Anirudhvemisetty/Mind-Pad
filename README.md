@@ -4,6 +4,17 @@
 It lets you quickly add, edit, and delete notes, with a clean UI, dark mode support, and smooth interactions.
 
 ---
+## 📸 Screenshot
+![MindPad Screenshot](screenshot.png)
+
+---
+
+##  Live Demo
+[Click here to try MindPad](https://mind-pad-mauve.vercel.app/)
+
+
+
+---
 
 ##  Features
 
@@ -25,3 +36,18 @@ mind-pad/
 ├── style.css       # Styling (light + dark theme)
 ├── app.js          # JavaScript logic (CRUD operations)
 └── README.md       # Project documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
