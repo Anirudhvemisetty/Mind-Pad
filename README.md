@@ -5,7 +5,7 @@ It lets you quickly add, edit, and delete notes, with a clean UI, dark mode supp
 
 ---
 ## 📸 Screenshot
-![MindPad Screenshot](screenshot.png)
+![MindPad Screenshot](screenshot.jpg)
 
 ---
 
